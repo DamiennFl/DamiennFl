@@ -12,5 +12,5 @@
 
 </br>
 
-![Damien's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamiennFl)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiennFl)
+![Damien's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamiennFl&rank_icon=github&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiennFl&theme=transparent)
