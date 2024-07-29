@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on leveraging machine learning to create a WDK for medical sensors.
 - 🌱 I’m currently learning Python Computer Vision.
 - 👯 I’m looking to collaborate on Java and Python projects.
-- 📫 How to reach me: damien.flutre@wsu.edu
+- 📫 How to reach me:
 
 </br>
 
