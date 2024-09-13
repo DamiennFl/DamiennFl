@@ -6,7 +6,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></p>
 
 
-- 🔭 I’m currently working on developing my website using Django for my backend, and React for my frontend.
+- 🔭 I’m currently working on developing my website using Django as a backend API, and React for my frontend.
 - 🌱 I’m currently learning network and verification stuff through my Raspberry Pi.
 - 👯 I’m looking to collaborate on Java and Python projects.
 - 📫 How to reach me: damien.flutre@hotmail.com
