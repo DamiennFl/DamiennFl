@@ -23,5 +23,3 @@
 - Created a Daily Leetcode Notifier which queries the Leetcode GraphQL API to get the daily leetcode question info, and then send it to my phone.
 - Used Django and React + Node.JS to create a working demo of a classroom polling app, similar to iClicker.
 - Created a very simple html page which simulates probability problems (Dropped this).
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiennFl&theme=transparent&hide_progress=true) <br>
