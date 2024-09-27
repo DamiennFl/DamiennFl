@@ -5,6 +5,11 @@
 <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height"40"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DamiennFl&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on developing my website using Django as a backend API, and React for my frontend.
 - 🌱 I’m currently learning network and verification stuff through my Raspberry Pi.
@@ -20,4 +25,3 @@
 - Created a very simple html page which simulates probability problems (Dropped this).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiennFl&theme=transparent&hide_progress=true) <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=DamiennFl&theme=dark)](https://git.io/streak-stats)
