@@ -19,4 +19,5 @@
 - Used Django and React + Node.JS to create a working demo of a classroom polling app, similar to iClicker.
 - Created a very simple html page which simulates probability problems (Dropped this).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiennFl&theme=transparent&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamiennFl&theme=transparent&hide_progress=true) <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DamiennFl&theme=dark)](https://git.io/streak-stats)
