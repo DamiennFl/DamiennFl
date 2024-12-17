@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on developing my website using Django as a backend API, and React for my frontend.
+- 🔭 I’m currently working as a software developer developing a website for the University of Idaho.
 - 🌱 I’m currently learning network and verification stuff through my Raspberry Pi.
 - 👯 I’m looking to collaborate on Java and Python projects.
 - 📫 How to reach me: damien.flutre@hotmail.com
