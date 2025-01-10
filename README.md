@@ -5,12 +5,6 @@
 <p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height"40"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></p> 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DamiennFl&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
 - 🔭 I’m currently working as a software developer developing a website for the University of Idaho.
 - 🌱 I’m currently learning network and verification stuff through my Raspberry Pi.
 - 👯 I’m looking to collaborate on Java and Python projects.
